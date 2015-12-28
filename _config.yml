@@ -1,7 +1,7 @@
 name: GreyBush
 favicon: null
-layout_spectrum: 0.38849952607415617
-typography_spectrum: 0.8823116815183312
+layout_spectrum: 0
+typography_spectrum: 0.66426
 title: Grey Bush
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#4eaeac'
+    - '#ffffff'
+    - '#471d2b'
+    - '#f97862'
+    - '#facc38'
   brandStrength: 0.539935118984431
   lightness: 0.4280351437628269
   saturation: 0.43844268936663866
