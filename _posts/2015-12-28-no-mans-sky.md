@@ -6,22 +6,35 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-28T17:46:55.411Z'
-dateModified: '2015-12-28T17:46:30.566Z'
+datePublished: '2015-12-28T18:15:12.964Z'
+dateModified: '2015-12-28T18:14:46.310Z'
 title: "No Man's Sky"
 author: []
+sourcePath: _posts/2015-12-28-no-mans-sky.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-28-no-mans-sky.md
-published: true
 url: no-mans-sky/index.html
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b0da324-a61b-4cad-9474-63584c0071cd.jpg)
 
-No Man's Sky might just change everything. Let's wait and see. June 2016\.
+_No Man's Sky_ might just change everything. All aboard the hype train, because it might just be the most anticipated game in the world right now!
+
+> Release date: June 2016
+
+_Hello Games_, the independent developer building the game, has shown some impressive demos over the past two years. They've made some pretty bold claims, and there are a lot of questions among both the rabid fans and the skeptics. Here's the big points:
+
+* This game is _big_. Explore it for years; you won't even scratch the surface.
+* Genuinely original: a designer's hand guides the procedural generation, a ghost in the machine; the scenery is _beautiful. _Inspired by the sweeping majesty of the Australian outback.
+* _Dangerous. _Everywhere you go, there will be things trying to kill you. It could be space pirates, it could be six-legged acid-spitting fauna.
+* Most importantly, _mysterious._ No one yet knows the underlying fabric of the game's story, or even the identity of the protagonist. But it has been stated that ruins and artifacts that exist in the game have been designed according to a secretive overarching plot that must be unearthed via play.
+
+Come June 2016, we'll all hop in our starfighters and ply our chosen trade as we race for the center of the universe.
+
+--- Grey Bush
