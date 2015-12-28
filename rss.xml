@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[GreyBush]]></title>
-        <description><![CDATA[GreyBush]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Grey Bush]]></title>
+        <description><![CDATA[Grey Bush]]></description>
+        <link>https://thegrid.ai/greybush/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Dec 2015 17:47:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Dec 2015 18:15:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/greybush/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No Man's Sky]]></title>
-            <description><![CDATA[<article><h1>No Man's Sky</h1><p>No Man's Sky might just change everything. Let's wait and see. June 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7468f6b06273be93e1e1bb4c78f1389a9f9e6328.jpg"></article>]]></description>
-            <link>undefinedno-mans-sky/index.html</link>
+            <description><![CDATA[<article><h1>No Man's Sky</h1><p>No Man's Sky might just change everything. All aboard the hype train, because it might just be the most anticipated game in the world right now!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7468f6b06273be93e1e1bb4c78f1389a9f9e6328.jpg"></article>]]></description>
+            <link>https://thegrid.ai/greybush/no-mans-sky/index.html</link>
             <guid isPermaLink="false">cc61f0af-151f-4835-9713-1aa26688f95a</guid>
-            <pubDate>Mon, 28 Dec 2015 17:46:55 GMT</pubDate>
+            <pubDate>Mon, 28 Dec 2015 18:15:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
