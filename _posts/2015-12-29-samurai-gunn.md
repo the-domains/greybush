@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-29T18:09:47.970Z'
-dateModified: '2015-12-29T18:09:43.924Z'
+datePublished: '2015-12-29T18:20:31.238Z'
+dateModified: '2015-12-29T18:20:28.508Z'
 title: Samurai Gunn
 author: []
 sourcePath: _posts/2015-12-29-samurai-gunn.md
@@ -22,7 +22,7 @@ url: samurai-gunn/index.html
 _type: Article
 
 ---
-_[Samurai Gunn][0]_was released in December of 2013\. Developer _Teknopants _conceived the idea for a fun party game (at a party, natch.), and executed it flawlessly.
+_Samurai Gunn _was released in December of 2013\. Developer _Teknopants _conceived the idea for a fun party game (at a party, natch.), and [executed it flawlessly][0].
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5950fdba-f3c4-49f4-8259-5fd8b9d354b5.png)
 
 Two to four players must sit together around one screen, and brutally murder each other over the span of a minute or so. Picking up the game is supremely easy for newcomers, but true mastery of the game can take a satisfyingly long time. There are a number of deceptively difficult advanced techniques available to an interested player, using only the same basic controls for movement and attack.
