@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Preview of No Man's Sky"
-datePublished: '2015-12-29T18:26:01.424Z'
-dateModified: '2015-12-29T18:25:58.436Z'
+datePublished: '2015-12-29T18:29:02.319Z'
+dateModified: '2015-12-29T18:28:59.620Z'
 title: "No Man's Sky"
 author: []
 sourcePath: _posts/2015-12-28-no-mans-sky.md
@@ -32,8 +32,8 @@ _Hello Games_, the independent developer building the game, has shown some impre
 
 * This game is _big_. Explore it for years; you won't even scratch the surface.
 * Genuinely original: a designer's hand guides the procedural generation, a ghost in the machine; the scenery is _beautiful. _Inspired by the sweeping majesty of the Australian outback.
-* _Dangerous. _Everywhere you go, there will be things trying to kill you. It could be space pirates, it could be six-legged acid-spitting fauna.
-* Most importantly, _mysterious._ No one yet knows the underlying fabric of the game's story, or even the identity of the protagonist. But it has been stated that ruins and artifacts that exist in the game have been designed according to a secretive overarching plot that must be unearthed via play.
+* _Dangerous. _Everywhere you go, there will be things trying to kill you. It could be space pirates, it could be six-legged acid-spitting fauna. 
+* Most importantly, _mysterious._ No one yet knows the underlying fabric of the game's story, or even the identity of the protagonist. But it has been stated that ruins and artifacts that exist in the game have been designed according to a secretive overarching plot that must be unearthed via play. 
 
 Come June 2016, we'll all hop in our starfighters and ply our chosen trade as we race for the center of the universe.
 
