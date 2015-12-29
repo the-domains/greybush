@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
-description: ''
-datePublished: '2015-12-29T18:23:42.835Z'
-dateModified: '2015-12-29T18:23:40.017Z'
+description: "Preview of No Man's Sky"
+datePublished: '2015-12-29T18:26:01.424Z'
+dateModified: '2015-12-29T18:25:58.436Z'
 title: "No Man's Sky"
 author: []
 sourcePath: _posts/2015-12-28-no-mans-sky.md
