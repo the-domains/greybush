@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-12-29T18:20:31.238Z'
-dateModified: '2015-12-29T18:20:28.508Z'
+description: Review of Samurai Gunn
+datePublished: '2015-12-29T18:25:30.327Z'
+dateModified: '2015-12-29T18:25:23.352Z'
 title: Samurai Gunn
 author: []
 sourcePath: _posts/2015-12-29-samurai-gunn.md
