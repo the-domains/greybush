@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Review of Samurai Gunn
-datePublished: '2015-12-29T18:25:30.327Z'
-dateModified: '2015-12-29T18:25:23.352Z'
+datePublished: '2016-01-11T18:41:07.260Z'
+dateModified: '2016-01-11T18:39:08.745Z'
 title: Samurai Gunn
 author: []
 sourcePath: _posts/2015-12-29-samurai-gunn.md
