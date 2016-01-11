@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Review of Infinifactory
-datePublished: '2016-01-11T18:55:37.690Z'
-dateModified: '2016-01-11T18:54:22.225Z'
+datePublished: '2016-01-11T21:38:53.802Z'
+dateModified: '2016-01-11T21:38:47.711Z'
 title: Infinifactory
 author: []
 sourcePath: _posts/2016-01-11-infinifactory.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 _Infinifactory_ is addicting. Really, _really _addicting_. _
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/484a229f4e0368b8bc99898a9b848a1ba2167b08.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a70cc8a-f8a5-45ef-9b89-3553cfc26cfc.jpg)
 
 The game's loading screen presents tips, and one of them in particular is ironically amusing; it suggests that a working solution is more important than making one which is fast or elegant. But there it is; fast and elegant solutions are the entire draw of the thing. So addicting they are that a tip had to be written to _remind _the player that they also have to actually solve the problem, and not just endlessly optimize.
 
