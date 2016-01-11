@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Preview of No Man's Sky"
-datePublished: '2015-12-29T18:29:02.319Z'
-dateModified: '2015-12-29T18:28:59.620Z'
+datePublished: '2016-01-11T18:55:48.492Z'
+dateModified: '2016-01-11T18:55:19.304Z'
 title: "No Man's Sky"
 author: []
 sourcePath: _posts/2015-12-28-no-mans-sky.md
@@ -26,7 +26,7 @@ _No Man's Sky_ might just change everything. All aboard the hype train, because 
 
 > Release date: June 2016
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b0da324-a61b-4cad-9474-63584c0071cd.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/825b1158e5cb28d03569b09d7ddc4e7d18771598.jpg)
 
 _Hello Games_, the independent developer building the game, has shown some impressive demos over the past two years. They've made some pretty bold claims, and there are a lot of questions among both the rabid fans and the skeptics. Here's the big points:
 
