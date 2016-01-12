@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Review of Samurai Gunn
-datePublished: '2016-01-11T18:55:42.854Z'
-dateModified: '2016-01-11T18:54:39.216Z'
+datePublished: '2016-01-12T15:10:40.181Z'
+dateModified: '2016-01-12T15:10:09.995Z'
 title: Samurai Gunn
 author: []
 sourcePath: _posts/2015-12-29-samurai-gunn.md
