@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "Preview of No Man's Sky"
-datePublished: '2016-01-11T18:55:48.492Z'
-dateModified: '2016-01-11T18:55:19.304Z'
+datePublished: '2016-01-12T15:10:44.358Z'
+dateModified: '2016-01-12T15:10:21.317Z'
 title: "No Man's Sky"
 author: []
 sourcePath: _posts/2015-12-28-no-mans-sky.md
