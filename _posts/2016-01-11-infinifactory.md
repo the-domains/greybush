@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Review of Infinifactory
-datePublished: '2016-01-11T21:38:53.802Z'
-dateModified: '2016-01-11T21:38:47.711Z'
+datePublished: '2016-01-12T15:10:33.850Z'
+dateModified: '2016-01-12T15:09:57.366Z'
 title: Infinifactory
 author: []
 sourcePath: _posts/2016-01-11-infinifactory.md
