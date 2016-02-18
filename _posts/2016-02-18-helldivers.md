@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Review of Helldivers
-datePublished: '2016-02-18T21:53:08.114Z'
-dateModified: '2016-02-18T21:48:43.618Z'
+datePublished: '2016-02-18T21:54:34.907Z'
+dateModified: '2016-02-18T21:54:09.220Z'
 title: Helldivers
 author: []
 sourcePath: _posts/2016-02-18-helldivers.md
@@ -22,7 +22,7 @@ url: helldivers/index.html
 _type: Article
 
 ---
-_Helldivers _is a solid cooperative multiplayer game. The best way I can describe it is as the unholy offspring of _Magicka _and _Alien Swarm. _If you haven't played either or both of these, no worries. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/894e89f5-ad07-4927-933e-b2e6ba1a6f60.png)
+_Helldivers _is a solid cooperative multiplayer game. The best way I can describe it is as the unholy offspring of _Magicka _and _Alien Swarm. _If you haven't played either or both of these, no worries. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c73d08e-42cd-44c2-9139-394f5b85edfd.png)
 
 You and some buddies (or online randos) pick a mission and drop to the surface of a hostile planet in supersonic space pods. Over the course of a mission, you will undoubtedly ...
 
