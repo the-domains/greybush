@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Review of Helldivers
-datePublished: '2016-02-18T21:48:37.721Z'
-dateModified: '2016-02-18T21:47:57.162Z'
+datePublished: '2016-02-18T21:53:08.114Z'
+dateModified: '2016-02-18T21:48:43.618Z'
 title: Helldivers
 author: []
+sourcePath: _posts/2016-02-18-helldivers.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-18-helldivers.md
-published: true
 url: helldivers/index.html
 _type: Article
 
