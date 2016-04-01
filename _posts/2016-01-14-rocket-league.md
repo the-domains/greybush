@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Review of Rocket League
-datePublished: '2016-01-14T22:15:56.926Z'
-dateModified: '2016-01-14T22:15:33.357Z'
+description: 'Rocket League. A name that calls to mind triumphant joys and wells of frustrated impotent rage. All in good fun, of course!'
+datePublished: '2016-04-01T06:52:47.856Z'
+dateModified: '2016-04-01T06:52:47.470Z'
 title: Rocket League
 author: []
+sourcePath: _posts/2016-01-14-rocket-league.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-14-rocket-league.md
-published: true
 url: rocket-league/index.html
 _type: Article
 
