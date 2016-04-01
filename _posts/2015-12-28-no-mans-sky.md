@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: "Preview of No Man's Sky"
-datePublished: '2016-01-12T15:10:44.358Z'
-dateModified: '2016-01-12T15:10:21.317Z'
+description: "No Man's Sky might just change everything. All aboard the hype train, because it might just be the most anticipated game in the world right now!"
+datePublished: '2016-04-01T06:33:51.079Z'
+dateModified: '2016-03-30T21:26:16.447Z'
 title: "No Man's Sky"
 author: []
 sourcePath: _posts/2015-12-28-no-mans-sky.md
