@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: "No Man's Sky might just change everything. All aboard the hype train, because it might just be the most anticipated game in the world right now!"
-datePublished: '2016-04-01T14:32:18.776Z'
-dateModified: '2016-04-01T14:32:12.029Z'
+description: "No Man's Sky might just change everything. It has become the most anticipated game of the year, and captured the attention of gamers young and old."
+datePublished: '2016-04-01T14:33:12.016Z'
+dateModified: '2016-04-01T14:33:03.194Z'
 title: "No Man's Sky"
 author: []
 sourcePath: _posts/2015-12-28-no-mans-sky.md
