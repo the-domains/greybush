@@ -5,25 +5,25 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Hyper Light Drifter is a frantic, graceful and sleek\_"
-datePublished: '2016-04-01T06:44:50.529Z'
-dateModified: '2016-04-01T06:44:41.570Z'
+description: 'Hyper Light Drifter is a frantic, graceful and sleek high action role-playing game. TL;DR: Fucking get it. If you want to know more, read on.'
+datePublished: '2016-04-01T14:08:52.744Z'
+dateModified: '2016-04-01T14:08:38.780Z'
 title: Hyper Light Drifter
 author: []
+sourcePath: _posts/2016-04-01-hyper-light-drifter.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-01-hyper-light-drifter.md
-published: true
 url: hyper-light-drifter/index.html
 _type: Article
 
 ---
 _Hyper Light Drifter_ is a frantic, graceful and sleek high action role-playing game. TL;DR: [Fucking get it][0]. If you want to know more, read on.
-![Hyper Light Drifter, logo wallpaper, high resolution](https://the-grid-user-content.s3-us-west-2.amazonaws.com/47af91d6-fba0-4c1e-8b74-df2868b202ad.jpg)
+![Hyper Light Drifter, logo wallpaper, high resolution](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9806aac82c5d04e8e39047f22d03669370353d04.jpg)
 
 There is essentially no text or spoken lines in this game at all, and yet there is still a language of sorts; the game cleverly uses symbols and images to convey stories and instructions.
 
