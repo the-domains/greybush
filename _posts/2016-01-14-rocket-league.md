@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Rocket League. A name that calls to mind triumphant joys and wells of frustrated impotent rage. All in good fun, of course!'
-datePublished: '2016-04-01T06:52:47.856Z'
-dateModified: '2016-04-01T06:52:47.470Z'
+datePublished: '2016-04-01T14:27:33.637Z'
+dateModified: '2016-04-01T14:27:21.422Z'
 title: Rocket League
 author: []
 sourcePath: _posts/2016-01-14-rocket-league.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 _Rocket League. _A name that calls to mind triumphant joys and wells of frustrated impotent rage. All in good fun, of course!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a08805c2-85fb-479e-bb66-aa8c7883d67b.jpg)
+![Rocket League image](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c946d47c432afe6432a45659c777eaa4ad669a6.jpg)
 
 It's a simple-seeming game on the surface. Drive a car around a caged arena, smack into a ball. Ball go in net. But underneath the simple premise is a solid physics-based engine to inhabit, and some beautiful _Unreal Engine _-driven graphics. The network connectivity has remained remarkably stable, despite the few minor outages; far fewer, it should be noted, than one might think given _Psyonix's _recent meteoric rise to success. The fact that the game was completely gratis to PS+ subscribers during the month of its initial release no doubt helped here.
 
