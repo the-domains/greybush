@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Review of Infinifactory
-datePublished: '2016-01-12T15:10:33.850Z'
-dateModified: '2016-01-12T15:09:57.366Z'
+description: "The game's loading screen presents tips, and one of them in particular is ironically amusing; it suggests that a working solution is more important than making one which is fast or elegant. But there it is; fast and elegant solutions are the entire draw of the thing. So addicting they are that a tip had to be written to remind the player that they also have to actually solve the problem, and not just endlessly optimize."
+datePublished: '2016-04-01T06:52:43.351Z'
+dateModified: '2016-04-01T06:52:43.181Z'
 title: Infinifactory
 author: []
 sourcePath: _posts/2016-01-11-infinifactory.md
