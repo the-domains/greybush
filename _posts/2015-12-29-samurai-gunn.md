@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Review of Samurai Gunn
-datePublished: '2016-01-12T15:10:40.181Z'
-dateModified: '2016-01-12T15:10:09.995Z'
+description: "Samurai Gunn\_was released in December of 2013. Developer Teknopants conceived the idea for a fun party game (at a party, natch.), and executed it flawlessly."
+datePublished: '2016-04-01T06:52:38.886Z'
+dateModified: '2016-04-01T06:52:38.543Z'
 title: Samurai Gunn
 author: []
 sourcePath: _posts/2015-12-29-samurai-gunn.md
