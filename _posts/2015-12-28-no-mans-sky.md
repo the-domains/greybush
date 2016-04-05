@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: "No Man's Sky might just change everything. It has become the most anticipated game of the year, and captured the attention of gamers young and old."
-datePublished: '2016-04-01T14:35:35.243Z'
-dateModified: '2016-04-01T14:35:31.576Z'
+datePublished: '2016-04-05T17:49:45.108Z'
+dateModified: '2016-04-05T17:49:10.993Z'
 title: "No Man's Sky"
 author: []
 sourcePath: _posts/2015-12-28-no-mans-sky.md
