@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "No Man's Sky might just change everything. It has become the most anticipated game of the year, and captured the attention of gamers young and old."
-datePublished: '2016-04-05T17:49:45.108Z'
-dateModified: '2016-04-05T17:49:10.993Z'
+datePublished: '2016-04-05T17:50:05.214Z'
+dateModified: '2016-04-05T17:50:01.422Z'
 title: "No Man's Sky"
 author: []
 sourcePath: _posts/2015-12-28-no-mans-sky.md
