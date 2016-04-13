@@ -2,13 +2,13 @@ name: GreyBush
 favicon: null
 layout_spectrum: 0.2537
 typography_spectrum: 0.73858
-title: Grey Bush — Videogame Reviewer
+title: Grey Bush — Seasoned Independent Videogame Reviewer
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-76369834-1
   facebook: null
   twitter: null
 opengraph:
