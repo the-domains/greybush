@@ -1,6 +1,6 @@
 name: GreyBush
 favicon: null
-layout_spectrum: 0.2537
+layout_spectrum: 1
 typography_spectrum: 0.73858
 title: Grey Bush — Seasoned Independent Videogame Reviewer
 cta:
@@ -24,6 +24,6 @@ color:
     - '#facc38'
   brandStrength: 0.539935118984431
   lightness: 0.4280351437628269
-  saturation: 0.43844268936663866
+  saturation: 0.5625
   rhythmicContrast: 0.5651025490369648
 purpose: []
