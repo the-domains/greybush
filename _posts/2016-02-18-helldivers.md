@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Helldivers is a solid cooperative multiplayer game. The best way I can describe it is as the unholy offspring of Magicka and Alien Swarm. If you haven't played either or both of these, no worries.\_"
-datePublished: '2016-04-01T14:20:01.439Z'
-dateModified: '2016-04-01T14:19:58.927Z'
+datePublished: '2016-04-13T14:50:31.761Z'
+dateModified: '2016-04-05T17:52:05.056Z'
 title: Helldivers
 author: []
 sourcePath: _posts/2016-02-18-helldivers.md
