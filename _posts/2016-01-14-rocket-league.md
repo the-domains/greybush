@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Rocket League. A name that calls to mind triumphant joys and wells of frustrated impotent rage. All in good fun, of course!'
-datePublished: '2016-04-13T14:49:45.313Z'
-dateModified: '2016-04-05T17:51:32.868Z'
+datePublished: '2016-04-13T18:58:44.342Z'
+dateModified: '2016-04-13T18:58:40.524Z'
 title: Rocket League
 author: []
 sourcePath: _posts/2016-01-14-rocket-league.md
