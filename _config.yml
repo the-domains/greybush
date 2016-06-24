@@ -1,20 +1,4 @@
-name: GreyBush
-favicon: null
-layout_spectrum: 0.1664381844457239
 typography_spectrum: 0.38189
-title: Grey Bush — Seasoned Independent Videogame Reviewer
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-76369834-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#4eaeac'
@@ -26,4 +10,23 @@ color:
   lightness: 0.4280351437628269
   saturation: 0.5625
   rhythmicContrast: 0.5651025490369648
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.1664381844457239
+analytics:
+  google: UA-76369834-1
+  facebook: null
+  twitter: null
+author:
+  name: Tyler Cole
+  email: trylobot@gmail.com
+name: GreyBush
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Grey Bush — Seasoned Independent Videogame Reviewer
 purpose: []
