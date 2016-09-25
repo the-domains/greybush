@@ -1,4 +1,4 @@
-typography_spectrum: 0.38189
+typography_spectrum: 0.2998743529897183
 color:
   brandColors:
     - '#4eaeac'
@@ -10,11 +10,12 @@ color:
   lightness: 0.4280351437628269
   saturation: 0.5625
   rhythmicContrast: 0.5651025490369648
+github: true
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.1664381844457239
+layout_spectrum: 0.591523889452219
 analytics:
   google: UA-76369834-1
   facebook: null
@@ -22,11 +23,19 @@ analytics:
 author:
   name: Tyler Cole
   email: trylobot@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf4e530e-e2b0-4165-956a-33f08fe848d8.png
 name: GreyBush
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
-title: Grey Bush — Seasoned Independent Videogame Reviewer
+navigation:
+  - name: Gaming as an Adult (About Me)
+    id: 00d6b1c9-f61e-4f3a-b712-d11fed45719b
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/dde1a046-2979-41c5-b069-bddfb07cd150.png
+title: Grey Bush
+description: Seasoned Independent Videogame Reviewer
 purpose: []
