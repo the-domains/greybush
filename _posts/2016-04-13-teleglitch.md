@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-08-17T18:30:35.173Z'
+datePublished: '2017-08-17T18:31:28.359Z'
 sourcePath: _posts/2016-04-13-teleglitch.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2017-08-17T18:30:34.802Z'
+dateModified: '2017-08-17T18:31:27.831Z'
 title: Teleglitch Review
 publisher: {}
 description: >-
