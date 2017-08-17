@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Hardcore permadeath elimination. Holy shit.
-dateModified: '2017-08-17T22:43:29.540Z'
-datePublished: '2017-08-17T22:43:30.021Z'
+dateModified: '2017-08-17T23:41:09.818Z'
+datePublished: '2017-08-17T23:41:10.806Z'
 title: PlayerUnknown’s Battlegrounds Review
 author: []
 publisher: {}
