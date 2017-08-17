@@ -1,29 +1,31 @@
 ---
+datePublished: '2017-08-17T15:45:47.718Z'
+sourcePath: _posts/2016-01-14-rocket-league.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
+keywords: []
+author: []
+via: {}
+dateModified: '2017-08-17T15:45:47.127Z'
+title: Rocket League Review
+publisher: {}
+description: >-
+  Rocket League. A name that calls to mind triumphant joys and wells of
+  frustrated impotent rage. All in good fun, of course!
 inLanguage: null
 starred: false
-keywords: []
-description: 'Rocket League. A name that calls to mind triumphant joys and wells of frustrated impotent rage. All in good fun, of course!'
-datePublished: '2016-04-13T18:58:44.342Z'
-dateModified: '2016-04-13T18:58:40.524Z'
-title: Rocket League
-author: []
-sourcePath: _posts/2016-01-14-rocket-league.md
-published: true
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublishedOriginal: '2016-09-24T20:51:13.467Z'
 url: rocket-league/index.html
 _type: Article
 
 ---
+# Rocket League Review
+
 _Rocket League. _A name that calls to mind triumphant joys and wells of frustrated impotent rage. All in good fun, of course!
-![Rocket League image](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c946d47c432afe6432a45659c777eaa4ad669a6.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ed99376-218e-4b53-8894-d3c4d76dac6c.jpg)
+
+---
 
 It's a simple-seeming game on the surface. Drive a car around a caged arena, smack into a ball. Ball go in net. But underneath the simple premise is a solid physics-based engine to inhabit, and some beautiful _Unreal Engine _-driven graphics. The network connectivity has remained remarkably stable, despite the few minor outages; far fewer, it should be noted, than one might think given _Psyonix's _recent meteoric rise to success. The fact that the game was completely gratis to PS+ subscribers during the month of its initial release no doubt helped here.
 
