@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-08-17T18:32:29.219Z'
+datePublished: '2017-08-17T18:32:33.058Z'
 sourcePath: _posts/2015-12-29-samurai-gunn.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2017-08-17T18:32:28.878Z'
+dateModified: '2017-08-17T18:32:32.781Z'
 title: Samurai Gunn Review
 publisher: {}
 description: >-
