@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-08-17T22:43:30.028Z'
+datePublished: '2017-08-17T23:41:10.827Z'
 sourcePath: _posts/2016-01-14-rocket-league.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2017-08-17T22:43:29.540Z'
+dateModified: '2017-08-17T23:41:09.818Z'
 title: Rocket League Review
 publisher: {}
 description: >-
