@@ -4,9 +4,16 @@
         <description><![CDATA[Trylobot Reviews Games]]></description>
         <link>https://thegrid.ai/trylobot/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Aug 2017 22:43:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2017 22:44:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/trylobot/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 17 Aug 2017 22:43:26 GMT</pubDate>
+        <pubDate>Thu, 17 Aug 2017 22:43:41 GMT</pubDate>
+        <item>
+            <title><![CDATA[Starsector Review]]></title>
+            <description><![CDATA[<h1>Starsector Review</h1>,<p>Deceptively deep; both strategic and tactical; the ultimate space-nerd game.</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5baab14f-4075-4b89-9740-c003b736493b.jpg">]]></description>
+            <link>https://thegrid.ai/trylobot/starsector-review/index.html</link>
+            <guid isPermaLink="false">4b6a5dc3-b870-4b0e-b529-8a34b88c6eb6</guid>
+            <pubDate>Thu, 17 Aug 2017 22:42:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[PlayerUnknown’s Battlegrounds Review]]></title>
             <description><![CDATA[<h1>PlayerUnknown’s Battlegrounds Review</h1>,<p>Hardcore permadeath elimination. Holy shit.</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c3e5e02-c153-4418-b2a7-fe3b77d3dd37.jpg">]]></description>
@@ -69,13 +76,6 @@
             <link>https://thegrid.ai/trylobot/infinifactory/index.html</link>
             <guid isPermaLink="false">088e37ca-f468-48b8-8a00-63324b0f04fd</guid>
             <pubDate>Sat, 24 Sep 2016 20:51:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No Man’s Sky Review]]></title>
-            <description><![CDATA[<h1>No Man’s Sky Review</h1>,<p><em>No Man's Sky</em> serves as a sobering reminder that hype is a danger to both developers and gamers.</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6eb5f5df-ae73-4e29-a0e3-0bcd1bc4b3f6.png">]]></description>
-            <link>https://thegrid.ai/trylobot/no-mans-sky/index.html</link>
-            <guid isPermaLink="false">cc61f0af-151f-4835-9713-1aa26688f95a</guid>
-            <pubDate>Sat, 24 Sep 2016 20:36:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
