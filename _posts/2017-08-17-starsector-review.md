@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: Deceptively deep; both strategic and tactical; the ultimate space-nerd game.
-dateModified: '2017-08-17T22:42:37.925Z'
-datePublished: '2017-08-17T22:42:38.360Z'
+dateModified: '2017-08-17T22:43:24.659Z'
+datePublished: '2017-08-17T22:43:25.068Z'
 title: Starsector Review
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-08-17-starsector-review.md
 starred: false
 datePublishedOriginal: '2017-08-17T22:42:38.360Z'
-sourcePath: _posts/2017-08-17-starsector-review.md
 url: starsector-review/index.html
 _type: Article
 
@@ -28,5 +28,7 @@ It provides real-time tactical fleet combat wherein you can pilot your flagship 
 
 Zooming out a bit, you also move your fleet about in local system space near stars, and in hyperspace between systems; you can interact with other fleets, and with stations and planets to trade and quest and the like. Currently there is also a simulated economy of surprising complexity that takes into account things like market stability, supply, demand, black market availability, and faction favor restrictions. Military goods are available at the higher levels of favor (and you'll definitely want access if you can get it).
 
-All in all, even in its current state (version 0.8.1a as of this writing), it is well worth the asking price. Get it here.  
+All in all, even in its current state (version 0.8.1a as of this writing), it is well worth the asking price. [Get it here.][0]  
 --- Trylobot
+
+[0]: http://fractalsoftworks.com/preorder/
