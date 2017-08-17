@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   If you fondly remember Wipeout or Extreme-G, don’t even read this review, just
   get it.
-dateModified: '2017-08-17T18:31:27.831Z'
-datePublished: '2017-08-17T18:31:28.333Z'
+dateModified: '2017-08-17T18:51:31.815Z'
+datePublished: '2017-08-17T18:51:32.142Z'
 title: Redout Review
 author: []
 publisher: {}
