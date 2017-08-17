@@ -4,9 +4,16 @@
         <description><![CDATA[Trylobot Reviews Games]]></description>
         <link>https://thegrid.ai/trylobot/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Aug 2017 23:41:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2017 23:42:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/trylobot/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 17 Aug 2017 23:41:01 GMT</pubDate>
+        <pubDate>Thu, 17 Aug 2017 23:41:23 GMT</pubDate>
+        <item>
+            <title><![CDATA[Planetary Annihilation Review]]></title>
+            <description><![CDATA[<h1>Planetary Annihilation Review</h1>,<p><em>Uber Entertainment</em> decided the time had come to reboot a classic RTS, and weren’t satisfied with its first re-incarnation attempt. Let’s take a trip in the Way-Back Machine!</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7358adbc-88c1-4c57-8277-a218eb92ec99.jpg">]]></description>
+            <link>https://thegrid.ai/trylobot/planetary-annihilation-review/index.html</link>
+            <guid isPermaLink="false">15677155-8695-4f81-ae93-910f0455e8e9</guid>
+            <pubDate>Thu, 17 Aug 2017 23:40:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Starsector Review]]></title>
             <description><![CDATA[<h1>Starsector Review</h1>,<p>Deceptively deep; both strategic and tactical; the ultimate space-nerd game.</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5baab14f-4075-4b89-9740-c003b736493b.jpg">]]></description>
@@ -69,13 +76,6 @@
             <link>https://thegrid.ai/trylobot/rocket-league/index.html</link>
             <guid isPermaLink="false">4d32dcce-48e7-4dd9-ba72-253b4b29f8bc</guid>
             <pubDate>Sat, 24 Sep 2016 20:51:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Infinifactory Review]]></title>
-            <description><![CDATA[<h1>Infinifactory Review</h1>,<p><em>Infinifactory</em> is addicting. Really, <em>really </em>addicting<em>.</em></p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a70cc8a-f8a5-45ef-9b89-3553cfc26cfc.jpg">]]></description>
-            <link>https://thegrid.ai/trylobot/infinifactory/index.html</link>
-            <guid isPermaLink="false">088e37ca-f468-48b8-8a00-63324b0f04fd</guid>
-            <pubDate>Sat, 24 Sep 2016 20:51:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
