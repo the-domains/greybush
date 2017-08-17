@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-08-17T15:52:50.876Z'
+datePublished: '2017-08-17T18:31:28.352Z'
 sourcePath: _posts/2015-12-28-no-mans-sky.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2017-08-17T15:52:50.527Z'
+dateModified: '2017-08-17T18:31:27.831Z'
 title: No Man’s Sky Review
 publisher: {}
 description: >-
