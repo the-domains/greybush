@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-08-17T18:31:28.352Z'
+datePublished: '2017-08-17T18:32:44.283Z'
 sourcePath: _posts/2015-12-28-no-mans-sky.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2017-08-17T18:31:27.831Z'
+dateModified: '2017-08-17T18:32:43.763Z'
 title: No Man’s Sky Review
 publisher: {}
 description: >-
@@ -37,4 +37,4 @@ Playing the actual game though, is sadly much different than what most fans had 
 
 I'm going to have to recommend you avoid this one. Do not get.
 
---- Grey Bush
+--- Trylobot
