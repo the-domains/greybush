@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-08-17T18:31:28.357Z'
+datePublished: '2017-08-17T18:32:02.646Z'
 sourcePath: _posts/2016-01-14-rocket-league.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2017-08-17T18:31:27.831Z'
+dateModified: '2017-08-17T18:32:02.052Z'
 title: Rocket League Review
 publisher: {}
 description: >-
@@ -33,6 +33,6 @@ True mastery of the game, like many physics-based skill games, is a serious ende
 
 Add to that the miniscule prices of the DLC on offer so far, along with the completely free maps and mutator settings and special events, and _Rocket League _is a no-brainer. [Get it!][0]
 
---- Grey Bush
+--- Trylobot
 
 [0]: http://rocketleague.psyonix.com/
