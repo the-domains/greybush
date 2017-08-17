@@ -1,66 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Grey Bush — Seasoned Independent Videogame Reviewer]]></title>
-        <description><![CDATA[Grey Bush — Seasoned Independent Videogame Reviewer]]></description>
+        <title><![CDATA[Grey Bush]]></title>
+        <description><![CDATA[Grey Bush]]></description>
         <link>https://thegrid.ai/greybush/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 20 Jun 2016 19:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2017 15:47:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/greybush/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Thu, 17 Aug 2017 15:46:58 GMT</pubDate>
         <item>
-            <title><![CDATA[No Man's Sky]]></title>
-            <description><![CDATA[<article><h1>No Man's Sky</h1><p>No Man's Sky might just change everything. It has become the most anticipated game of the year, and captured the attention of gamers young and old.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/825b1158e5cb28d03569b09d7ddc4e7d18771598.jpg"></article>]]></description>
-            <link>https://thegrid.ai/greybush/no-mans-sky/index.html</link>
-            <guid isPermaLink="false">cc61f0af-151f-4835-9713-1aa26688f95a</guid>
-            <pubDate>Mon, 20 Jun 2016 19:14:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rocket League]]></title>
-            <description><![CDATA[<article><h1>Rocket League</h1><p>Rocket League. A name that calls to mind triumphant joys and wells of frustrated impotent rage. All in good fun, of course!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c946d47c432afe6432a45659c777eaa4ad669a6.jpg"></article>]]></description>
-            <link>https://thegrid.ai/greybush/rocket-league/index.html</link>
-            <guid isPermaLink="false">4d32dcce-48e7-4dd9-ba72-253b4b29f8bc</guid>
-            <pubDate>Wed, 13 Apr 2016 18:58:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Teleglitch]]></title>
-            <description><![CDATA[<article><h1>Teleglitch</h1><p>Teleglitch is brutal; defenestration-of-monitors kind of brutal. You will die, a lot. But if you succeed, it will represent a true achievement.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f911a5b-e592-4dc4-b248-ec37f291d279.jpg"></article>]]></description>
-            <link>https://thegrid.ai/greybush/teleglitch/index.html</link>
-            <guid isPermaLink="false">bf1dcd89-4798-4b76-b113-434f2f7e5898</guid>
-            <pubDate>Wed, 13 Apr 2016 14:59:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Helldivers]]></title>
-            <description><![CDATA[<article><h1>Helldivers</h1><p>Helldivers is a solid cooperative multiplayer game. The best way I can describe it is as the unholy offspring of Magicka and Alien Swarm. If you haven't played either or both of these, no worries. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f10fe6f87be4788ac1c170f29d07a8e5c378911e.png"></article>]]></description>
-            <link>https://thegrid.ai/greybush/helldivers/index.html</link>
-            <guid isPermaLink="false">89316026-f7da-4112-ac99-802922de84de</guid>
-            <pubDate>Wed, 13 Apr 2016 14:50:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Crawl]]></title>
-            <description><![CDATA[<article><h1>Crawl</h1><p>They release new content for the game on a regular beat, in the form of new room layouts and art, new monsters, weapons, items and such, so rewards are ongoing and delicious.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b72ab0958884d4cd78aec818d33eeb8ffdceafdb.png"></article>]]></description>
-            <link>https://thegrid.ai/greybush/crawl/index.html</link>
-            <guid isPermaLink="false">9bb0e3a5-0847-4c36-aace-8ec71189f339</guid>
-            <pubDate>Wed, 13 Apr 2016 14:50:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Infinifactory]]></title>
-            <description><![CDATA[<article><h1>Infinifactory</h1><p>The game's loading screen presents tips, and one of them in particular is ironically amusing; it suggests that a working solution is more important than making one which is fast or elegant. But there it is; fast and elegant solutions are the entire draw of the thing. So addicting they are that a tip had to be written to remind the player that they also have to actually solve the problem, and not just endlessly optimize.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a70cc8a-f8a5-45ef-9b89-3553cfc26cfc.jpg"></article>]]></description>
-            <link>https://thegrid.ai/greybush/infinifactory/index.html</link>
-            <guid isPermaLink="false">088e37ca-f468-48b8-8a00-63324b0f04fd</guid>
-            <pubDate>Tue, 05 Apr 2016 17:52:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hyper Light Drifter]]></title>
-            <description><![CDATA[<article><h1>Hyper Light Drifter</h1><p>Hyper Light Drifter is a frantic, graceful and sleek high action role-playing game. TL;DR: Fucking get it. If you want to know more, read on.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9806aac82c5d04e8e39047f22d03669370353d04.jpg"></article>]]></description>
-            <link>https://thegrid.ai/greybush/hyper-light-drifter/index.html</link>
-            <guid isPermaLink="false">def99095-4f40-4e98-ade1-950f31a43660</guid>
-            <pubDate>Fri, 01 Apr 2016 14:08:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Samurai Gunn]]></title>
-            <description><![CDATA[<article><h1>Samurai Gunn</h1><p>Samurai Gunn was released in December of 2013. Developer Teknopants conceived the idea for a fun party game (at a party, natch.), and executed it flawlessly.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e632a6ee222f0dda5a9ada6fcdf13cc488e9a09.png"></article>]]></description>
+            <title><![CDATA[Samurai Gunn Review]]></title>
+            <description><![CDATA[<h1>Samurai Gunn Review</h1>,<p><em>Samurai Gunn </em>was released in December of 2013. Developer <em>Teknopants </em>conceived the idea for a fun party game (at a party, natch.), and <a href="https://youtu.be/kOf_AiaF_Jo">executed it flawlessly</a>.</p>,<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e632a6ee222f0dda5a9ada6fcdf13cc488e9a09.png">]]></description>
             <link>https://thegrid.ai/greybush/samurai-gunn/index.html</link>
             <guid isPermaLink="false">ba29a5e8-c74b-4543-aabc-5f4b6510042e</guid>
-            <pubDate>Fri, 01 Apr 2016 06:52:38 GMT</pubDate>
+            <pubDate>Sat, 24 Sep 2016 20:52:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Infinifactory Review]]></title>
+            <description><![CDATA[<h1>Infinifactory Review</h1>,<p><em>Infinifactory</em> is addicting. Really, <em>really </em>addicting<em>.</em></p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a70cc8a-f8a5-45ef-9b89-3553cfc26cfc.jpg">]]></description>
+            <link>https://thegrid.ai/greybush/infinifactory/index.html</link>
+            <guid isPermaLink="false">088e37ca-f468-48b8-8a00-63324b0f04fd</guid>
+            <pubDate>Sat, 24 Sep 2016 20:51:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rocket League Review]]></title>
+            <description><![CDATA[<h1>Rocket League Review</h1>,<p><em>Rocket League. </em>A name that calls to mind triumphant joys and wells of frustrated impotent rage. All in good fun, of course!</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ed99376-218e-4b53-8894-d3c4d76dac6c.jpg">]]></description>
+            <link>https://thegrid.ai/greybush/rocket-league/index.html</link>
+            <guid isPermaLink="false">4d32dcce-48e7-4dd9-ba72-253b4b29f8bc</guid>
+            <pubDate>Sat, 24 Sep 2016 20:51:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Crawl Review]]></title>
+            <description><![CDATA[<h1>Crawl Review</h1>,<p><em>Crawl</em> is a piece of local multiplayer genius. You and up to three friends take turns controlling a hero. As the hero, you want to level up and escape the dungeon. Everyone else is pitted <em>against </em>the hero, as the various hazards of the dungeon (including the bosses!).</p>,<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b72ab0958884d4cd78aec818d33eeb8ffdceafdb.png">]]></description>
+            <link>https://thegrid.ai/greybush/crawl/index.html</link>
+            <guid isPermaLink="false">9bb0e3a5-0847-4c36-aace-8ec71189f339</guid>
+            <pubDate>Sat, 24 Sep 2016 20:50:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HellDivers Review]]></title>
+            <description><![CDATA[<h1>HellDivers Review</h1>,<p><em>HellDivers </em>is a solid cooperative multiplayer game. The best way I can describe it is as the unholy offspring of <em>Magicka </em>and <em>Alien Swarm. </em>If you haven't played either or both of these, no worries.</p>,<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f10fe6f87be4788ac1c170f29d07a8e5c378911e.png">]]></description>
+            <link>https://thegrid.ai/greybush/helldivers/index.html</link>
+            <guid isPermaLink="false">89316026-f7da-4112-ac99-802922de84de</guid>
+            <pubDate>Sat, 24 Sep 2016 20:50:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hyper Light Drifter Review]]></title>
+            <description><![CDATA[<h1>Hyper Light Drifter Review</h1>,<p><em>Hyper Light Drifter</em> is a frantic, graceful and sleek high action role-playing game. TL;DR: <a href="http://www.heart-machine.com/">Fucking get it</a>. If you want to know more, read on.</p>,<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9806aac82c5d04e8e39047f22d03669370353d04.jpg">]]></description>
+            <link>https://thegrid.ai/greybush/hyper-light-drifter/index.html</link>
+            <guid isPermaLink="false">def99095-4f40-4e98-ade1-950f31a43660</guid>
+            <pubDate>Sat, 24 Sep 2016 20:49:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Teleglitch Review]]></title>
+            <description><![CDATA[<h1>Teleglitch Review</h1>,<p><em>Teleglitch</em> is brutal; defenestration-of-monitors kind of brutal. You will die, a lot. But if you succeed, it will represent a true achievement.</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f911a5b-e592-4dc4-b248-ec37f291d279.jpg">]]></description>
+            <link>https://thegrid.ai/greybush/teleglitch/index.html</link>
+            <guid isPermaLink="false">bf1dcd89-4798-4b76-b113-434f2f7e5898</guid>
+            <pubDate>Sat, 24 Sep 2016 20:48:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No Man’s Sky Review]]></title>
+            <description><![CDATA[<h1>No Man’s Sky Review</h1>,<p><em>No Man's Sky</em> serves as a sobering reminder that hype is a danger to both developers and gamers.</p>,<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/825b1158e5cb28d03569b09d7ddc4e7d18771598.jpg">]]></description>
+            <link>https://thegrid.ai/greybush/no-mans-sky/index.html</link>
+            <guid isPermaLink="false">cc61f0af-151f-4835-9713-1aa26688f95a</guid>
+            <pubDate>Sat, 24 Sep 2016 20:36:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
