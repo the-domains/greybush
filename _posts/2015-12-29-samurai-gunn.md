@@ -1,27 +1,28 @@
 ---
+datePublished: '2017-08-17T18:31:28.353Z'
+sourcePath: _posts/2015-12-29-samurai-gunn.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
+keywords: []
+author: []
+via: {}
+dateModified: '2017-08-17T18:31:27.831Z'
+title: Samurai Gunn Review
+publisher: {}
+description: >-
+  Samurai Gunn was released in December of 2013. Developer Teknopants conceived
+  the idea for a fun party game (at a party, natch.), and executed it
+  flawlessly.
 inLanguage: null
 starred: false
-keywords: []
-description: "Samurai Gunn\_was released in December of 2013. Developer Teknopants conceived the idea for a fun party game (at a party, natch.), and executed it flawlessly."
-datePublished: '2016-04-01T06:52:38.886Z'
-dateModified: '2016-04-01T06:52:38.543Z'
-title: Samurai Gunn
-author: []
-sourcePath: _posts/2015-12-29-samurai-gunn.md
-published: true
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublishedOriginal: '2016-09-24T20:52:13.613Z'
 url: samurai-gunn/index.html
 _type: Article
 
 ---
+# Samurai Gunn Review
+
 _Samurai Gunn _was released in December of 2013\. Developer _Teknopants _conceived the idea for a fun party game (at a party, natch.), and [executed it flawlessly][0].
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e632a6ee222f0dda5a9ada6fcdf13cc488e9a09.png)
 
