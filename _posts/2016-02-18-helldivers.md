@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-08-17T15:51:31.846Z'
+datePublished: '2017-08-17T18:31:11.359Z'
 sourcePath: _posts/2016-02-18-helldivers.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2017-08-17T15:51:31.515Z'
+dateModified: '2017-08-17T18:31:10.718Z'
 title: HellDivers Review
 publisher: {}
 description: >-
@@ -32,8 +32,6 @@ You and some buddies (or online randos) pick a mission and drop to the surface o
 
 With plenty of gear and upgrades to collect, all of it surprisingly useful, and amusing achievements, this game is another no-brainer.
 
-[Get it.][0]
-
---- Grey Bush
+[Get it.][0]--- Trylobot
 
 [0]: http://arrowheadgamestudios.com/games/helldivers/
