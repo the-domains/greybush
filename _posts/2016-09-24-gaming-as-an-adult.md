@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-08-17T18:31:28.346Z'
+datePublished: '2017-08-17T18:33:21.264Z'
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-08-17T18:31:27.831Z'
+dateModified: '2017-08-17T18:33:20.697Z'
 title: Gaming as an Adult
 publisher: {}
 description: >-
@@ -19,7 +19,7 @@ url: gaming-as-an-adult/index.html
 _type: Blurb
 
 ---
-# **Gaming as an Adult**
+# Gaming as an Adult
 
 I was born in the mid-eighties and grew up on games like _Super Mario Bros. _and _Legend of Zelda: A Link to the Past. _As a very young child, I did not game at all (with my parents having little money for it) and spent most of my time outside.
 
