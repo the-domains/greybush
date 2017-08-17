@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-08-17T18:30:51.021Z'
+datePublished: '2017-08-17T18:31:28.359Z'
 sourcePath: _posts/2016-04-01-hyper-light-drifter.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2017-08-17T18:30:50.320Z'
+dateModified: '2017-08-17T18:31:27.831Z'
 title: Hyper Light Drifter Review
 publisher: {}
 description: >-
