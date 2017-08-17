@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Wube software has a real gem on their hands.
-dateModified: '2017-08-17T18:31:27.831Z'
-datePublished: '2017-08-17T18:31:28.360Z'
+dateModified: '2017-08-17T18:51:31.815Z'
+datePublished: '2017-08-17T18:51:32.166Z'
 title: Factorio Review
 author: []
 publisher: {}
