@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: Wube software has a real gem on their hands.
-dateModified: '2017-08-17T16:13:11.423Z'
-datePublished: '2017-08-17T16:13:11.973Z'
+dateModified: '2017-08-17T18:29:50.986Z'
+datePublished: '2017-08-17T18:29:51.455Z'
 title: Factorio Review
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-08-17-factorio-review.md
 starred: false
 datePublishedOriginal: '2017-08-17T16:13:11.973Z'
-sourcePath: _posts/2017-08-17-factorio-review.md
 url: factorio-review/index.html
 _type: Article
 
@@ -28,8 +28,6 @@ Like _Don't Starve, Terraria_ and _Minecraft_ before it, there is a survival ele
 
 One pleasant surprise for me though was the overall quality. Despite still being in alpha, the game is already heavily optimized, and fully supports online multiplayer play, with optional mods. I have seen 100+ player servers online at times. The quality shows though, and actually the way I discovered the game was via its Steam Reviews. For a time it was the highest reviewed game on Steam _of all time._ That is a significant and well-earned achievement.
 
-If you are a sandbox gamer, [this one should be a top pick. Get it.][0]
-
---- Grey Bush
+If you are a sandbox gamer, [this one should be a top pick. Get it.][0]--- Trylobot
 
 [0]: https://www.factorio.com/buy
