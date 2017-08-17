@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-08-17T18:51:32.168Z'
+datePublished: '2017-08-17T20:10:56.737Z'
 sourcePath: _posts/2016-02-18-helldivers.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2017-08-17T18:51:31.815Z'
+dateModified: '2017-08-17T20:10:55.797Z'
 title: HellDivers Review
 publisher: {}
 description: >-
