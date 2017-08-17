@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-08-17T18:31:28.353Z'
+datePublished: '2017-08-17T18:32:29.219Z'
 sourcePath: _posts/2015-12-29-samurai-gunn.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2017-08-17T18:31:27.831Z'
+dateModified: '2017-08-17T18:32:28.878Z'
 title: Samurai Gunn Review
 publisher: {}
 description: >-
@@ -26,13 +26,15 @@ _type: Article
 _Samurai Gunn _was released in December of 2013\. Developer _Teknopants _conceived the idea for a fun party game (at a party, natch.), and [executed it flawlessly][0].
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e632a6ee222f0dda5a9ada6fcdf13cc488e9a09.png)
 
+---
+
 Two to four players must sit together around one screen, and brutally murder each other over the span of a minute or so. Picking up the game is supremely easy for newcomers, but true mastery of the game can take a satisfyingly long time. There are a number of deceptively difficult advanced techniques available to an interested player, using only the same basic controls for movement and attack.
 
 The retro-styled graphics are smoothly animated, and blood sprays are appropriately gruesome. Bullets can be deflected (of course!) into opponents, and any match that ends with a tie will move to a head-to-head showdown to determine the overall winner _--- _no guns allowed.
 
 Overall I give this game a thumbs-up. [Get it!][1]
 
---- Grey Bush
+--- Trylobot
 
 [0]: https://youtu.be/kOf_AiaF_Jo
 [1]: http://store.steampowered.com/app/239090/
