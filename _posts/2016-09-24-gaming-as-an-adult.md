@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-07-24T19:46:16.210Z'
+datePublished: '2017-08-17T18:30:22.532Z'
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-07-24T19:46:07.371Z'
+dateModified: '2017-08-17T18:30:22.105Z'
 title: Gaming as an Adult
 publisher: {}
 description: >-
@@ -19,7 +19,7 @@ url: gaming-as-an-adult/index.html
 _type: Blurb
 
 ---
-# Gaming as an Adult
+# **Gaming as an Adult**
 
 I was born in the mid-eighties and grew up on games like _Super Mario Bros. _and _Legend of Zelda: A Link to the Past. _As a very young child, I did not game at all (with my parents having little money for it) and spent most of my time outside.
 
@@ -37,8 +37,8 @@ I continued gaming with the Playstation 2, and built a respectable library. _Blo
 
 I also started gaming on PC a lot more when we got our 28.8k modem; this opened the door to multiplayer _Starcraft _and _Total Annihilation_. The classic _Counter-Strike _and many _SimCity_ games. I also began an interest in programming that would eventually turn into a lifelong career.
 
-Then it was an Xbox360 and later a Playstation 4\. There've been some real gems on both, but not many stick with me like those early ones. Of special note were _Braid_ and _Bloodborne. _I built my own PC to play _Doom 3, _and found a surprising love of _Battlefield 1942\. _I also may have been one of the few truly fanatics of its sci-fi sequel, _2142_, but knowing full well it was not as strong of a game overall as its predecessor. 
+Then it was an Xbox360 and later a Playstation 4\. There've been some real gems on both, but not many stick with me like those early ones. Of special note were _Braid_ and _Bloodborne. _I built my own PC to play _Doom 3, _and found a surprising love of _Battlefield 1942\. _I also may have been one of the few truly fanatics of its sci-fi sequel, _2142_, but knowing full well it was not as strong of a game overall as its predecessor.
 
 That's pretty much my gamer credentials in a nutshell. If you have a similar story, you may find that your tastes align with mine, and maybe we can help each other find some new gaming experiences.
 
---- Grey Bush
+--- Trylobot
