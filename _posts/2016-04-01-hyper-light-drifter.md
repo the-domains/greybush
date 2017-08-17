@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-08-17T15:51:50.837Z'
+datePublished: '2017-08-17T18:30:51.021Z'
 sourcePath: _posts/2016-04-01-hyper-light-drifter.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2017-08-17T15:51:50.494Z'
+dateModified: '2017-08-17T18:30:50.320Z'
 title: Hyper Light Drifter Review
 publisher: {}
 description: >-
@@ -33,7 +33,7 @@ This affects the gameplay in a subtle, yet deep way. Since you're not reading te
 
 This game is a definite thumbs-up, and a hearty congratulations also goes to Heart Machine for a successful [Kickstarter campaign][1].
 
---- Grey Bush
+--- Trylobot
 
 [0]: http://www.heart-machine.com/
 [1]: https://www.kickstarter.com/projects/1661802484/hyper-light-drifter
