@@ -4,9 +4,16 @@
         <description><![CDATA[Trylobot Reviews Games]]></description>
         <link>https://thegrid.ai/trylobot/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Aug 2017 00:01:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2017 00:01:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/trylobot/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 18 Aug 2017 00:01:01 GMT</pubDate>
+        <pubDate>Fri, 18 Aug 2017 00:01:26 GMT</pubDate>
+        <item>
+            <title><![CDATA[Nidhogg II Review]]></title>
+            <description><![CDATA[<h1>Nidhogg II Review</h1>,<p>The sequel to the venerable couch fencing game absolutely improves upon its concept in every way, without leaving anything behind.</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6acf851-8970-4fc1-bf79-354474537803.png">]]></description>
+            <link>https://thegrid.ai/trylobot/nidhogg-ii-review/index.html</link>
+            <guid isPermaLink="false">7ade17ba-d66b-4278-8a89-2d72f667410b</guid>
+            <pubDate>Fri, 18 Aug 2017 00:01:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Planetary Annihilation Review]]></title>
             <description><![CDATA[<h1>Planetary Annihilation Review</h1>,<p><em>Uber Entertainment</em> decided the time had come to reboot a classic RTS, and weren’t satisfied with its first re-incarnation attempt. Let’s take a trip in the Way-Back Machine!</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7358adbc-88c1-4c57-8277-a218eb92ec99.jpg">]]></description>
@@ -69,13 +76,6 @@
             <link>https://thegrid.ai/trylobot/helldivers/index.html</link>
             <guid isPermaLink="false">89316026-f7da-4112-ac99-802922de84de</guid>
             <pubDate>Sat, 24 Sep 2016 20:50:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rocket League Review]]></title>
-            <description><![CDATA[<h1>Rocket League Review</h1>,<p><em>Rocket League. </em>A name that calls to mind triumphant joys and wells of frustrated impotent rage. All in good fun, of course!</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ed99376-218e-4b53-8894-d3c4d76dac6c.jpg">]]></description>
-            <link>https://thegrid.ai/trylobot/rocket-league/index.html</link>
-            <guid isPermaLink="false">4d32dcce-48e7-4dd9-ba72-253b4b29f8bc</guid>
-            <pubDate>Sat, 24 Sep 2016 20:51:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
