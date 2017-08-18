@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-08-17T23:41:10.805Z'
+datePublished: '2017-08-18T00:01:13.920Z'
 sourcePath: _posts/2016-01-11-infinifactory.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2017-08-17T23:41:09.818Z'
+dateModified: '2017-08-18T00:01:13.190Z'
 title: Infinifactory Review
 publisher: {}
 description: 'Infinifactory is addicting. Really, really addicting.'
