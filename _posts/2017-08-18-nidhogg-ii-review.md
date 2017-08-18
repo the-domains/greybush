@@ -3,16 +3,16 @@ inFeed: true
 description: >-
   The sequel to the venerable couch fencing game absolutely improves upon its
   concept in every way, without leaving anything behind.
-dateModified: '2017-08-18T00:00:59.756Z'
-datePublished: '2017-08-18T00:01:00.375Z'
+dateModified: '2017-08-18T00:01:13.190Z'
+datePublished: '2017-08-18T00:01:13.915Z'
 title: Nidhogg II Review
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-08-18-nidhogg-ii-review.md
 starred: false
 datePublishedOriginal: '2017-08-18T00:01:00.375Z'
-sourcePath: _posts/2017-08-18-nidhogg-ii-review.md
 url: nidhogg-ii-review/index.html
 _type: Article
 
