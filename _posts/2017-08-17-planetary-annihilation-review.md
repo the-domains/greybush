@@ -4,8 +4,8 @@ description: >-
   Uber Entertainment decided the time had come to reboot a classic RTS, and
   weren’t satisfied with its first re-incarnation attempt. Let’s take a trip in
   the Way-Back Machine!
-dateModified: '2017-08-18T00:01:13.190Z'
-datePublished: '2017-08-18T00:01:13.856Z'
+dateModified: '2017-08-22T19:53:42.120Z'
+datePublished: '2017-08-22T19:53:42.873Z'
 title: Planetary Annihilation Review
 author: []
 publisher: {}
@@ -31,8 +31,10 @@ Knowing full well that the market they were tapping was potentially niche, it wa
 
 Some time passed and eventually they delivered exactly what they said they would, and some expansion content a bit later.
 
-The review is easy though; if you liked _Total Annihilation_ and felt that _Supreme Commander _and its various expansions and sequels were a bit of a let-down, _Planetary Annihilation_ is the one you've been waiting for. Get after it.
+The review is easy though; if you liked _Total Annihilation_ and felt that _Supreme Commander _and its various expansions and sequels were a bit of a let-down, _Planetary Annihilation_ is the one you've been waiting for; don't hesitate.
 
+[Get it on Steam.][1]  
 --- Trylobot
 
 [0]: https://www.kickstarter.com/projects/659943965/planetary-annihilation-a-next-generation-rts
+[1]: http://store.steampowered.com/app/386070/Planetary_Annihilation_TITANS/
