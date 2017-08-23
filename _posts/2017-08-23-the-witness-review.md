@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Attention to detail; mindblowing quality.
-dateModified: '2017-08-23T16:10:54.802Z'
-datePublished: '2017-08-23T16:10:56.056Z'
+dateModified: '2017-08-23T18:04:00.781Z'
+datePublished: '2017-08-23T18:04:02.298Z'
 title: The Witness Review
 author: []
 publisher: {}
