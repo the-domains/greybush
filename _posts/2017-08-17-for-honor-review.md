@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   There’s a lot to love about this innovative new fighter, but there’s also a
   lot to hate.
-dateModified: '2017-08-23T15:45:29.747Z'
-datePublished: '2017-08-23T15:45:30.775Z'
+dateModified: '2017-08-23T16:10:54.802Z'
+datePublished: '2017-08-23T16:10:56.146Z'
 title: For Honor Review
 author: []
 publisher: {}
