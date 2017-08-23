@@ -4,9 +4,16 @@
         <description><![CDATA[Trylobot Reviews Games]]></description>
         <link>https://thegrid.ai/trylobot/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Aug 2017 15:45:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2017 15:46:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/trylobot/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 23 Aug 2017 15:45:17 GMT</pubDate>
+        <pubDate>Wed, 23 Aug 2017 15:45:45 GMT</pubDate>
+        <item>
+            <title><![CDATA[The Witness Review]]></title>
+            <description><![CDATA[<h1>The Witness Review</h1>,<p>Attention to detail; mindblowing quality.</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8d7a368-b2a2-4539-a854-27069021b5e3.png">]]></description>
+            <link>https://thegrid.ai/trylobot/the-witness-review/index.html</link>
+            <guid isPermaLink="false">80322655-df9f-4239-96e3-05d3167d1cba</guid>
+            <pubDate>Wed, 23 Aug 2017 15:44:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nidhogg II Review]]></title>
             <description><![CDATA[<h1>Nidhogg II Review</h1>,<p>The sequel to the venerable couch fencing game absolutely improves upon its concept in every way, without leaving anything behind.</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6acf851-8970-4fc1-bf79-354474537803.png">]]></description>
@@ -69,13 +76,6 @@
             <link>https://thegrid.ai/trylobot/hyper-light-drifter/index.html</link>
             <guid isPermaLink="false">def99095-4f40-4e98-ade1-950f31a43660</guid>
             <pubDate>Sat, 24 Sep 2016 20:49:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Witness Review]]></title>
-            <description><![CDATA[<h1>The Witness Review</h1>,<p>Attention to detail; mindblowing quality.</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8d7a368-b2a2-4539-a854-27069021b5e3.png">]]></description>
-            <link>https://thegrid.ai/trylobot/the-witness-review/index.html</link>
-            <guid isPermaLink="false">80322655-df9f-4239-96e3-05d3167d1cba</guid>
-            <pubDate>Wed, 23 Aug 2017 15:44:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
