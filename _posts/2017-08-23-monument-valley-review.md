@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: Beautiful but not particularly challenging; excellent for killing some time.
-dateModified: '2017-08-23T18:03:45.185Z'
-datePublished: '2017-08-23T18:03:45.904Z'
+dateModified: '2017-08-23T18:04:00.781Z'
+datePublished: '2017-08-23T18:04:02.298Z'
 title: Monument Valley Review
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-08-23-monument-valley-review.md
 starred: false
 datePublishedOriginal: '2017-08-23T18:03:45.904Z'
-sourcePath: _posts/2017-08-23-monument-valley-review.md
 url: monument-valley-review/index.html
 _type: Article
 
