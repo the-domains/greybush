@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-08-23T15:44:15.003Z'
-datePublished: '2017-08-23T15:44:15.769Z'
+dateModified: '2017-08-23T15:44:38.042Z'
+datePublished: '2017-08-23T15:44:38.379Z'
 title: The Witness Review
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-08-23-the-witness-review.md
 starred: false
 datePublishedOriginal: '2017-08-23T15:44:15.769Z'
-sourcePath: _posts/2017-08-23-the-witness-review.md
 url: the-witness-review/index.html
 _type: Article
 
