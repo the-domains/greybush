@@ -4,16 +4,16 @@ description: >-
   If you haven’t heard of Minecraft by now, you have probably also never played
   a game before. So, this review is for you. Why should you care about
   Minecraft, anyway?
-dateModified: '2017-08-17T19:18:48.281Z'
-datePublished: '2017-08-17T19:18:48.631Z'
+dateModified: '2017-08-23T16:18:26.847Z'
+datePublished: '2017-08-23T16:18:27.568Z'
 title: Minecraft Review
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-08-17-minecraft-review.md
 starred: false
 datePublishedOriginal: '2017-08-17T19:18:48.631Z'
-sourcePath: _posts/2017-08-17-minecraft-review.md
 url: minecraft-review/index.html
 _type: Article
 
