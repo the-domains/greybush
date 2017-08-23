@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Deceptively deep; both strategic and tactical; the ultimate space-nerd game.
-dateModified: '2017-08-23T15:44:38.042Z'
-datePublished: '2017-08-23T15:44:38.517Z'
+dateModified: '2017-08-23T15:45:29.747Z'
+datePublished: '2017-08-23T15:45:30.721Z'
 title: Starsector Review
 author: []
 publisher: {}
