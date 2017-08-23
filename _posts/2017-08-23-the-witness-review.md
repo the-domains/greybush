@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: ''
-dateModified: '2017-08-23T15:44:38.042Z'
-datePublished: '2017-08-23T15:44:38.379Z'
+description: Attention to detail; mindblowing quality.
+dateModified: '2017-08-23T15:45:16.101Z'
+datePublished: '2017-08-23T15:45:16.599Z'
 title: The Witness Review
 author: []
 publisher: {}
@@ -16,6 +16,8 @@ _type: Article
 
 ---
 # The Witness Review
+
+Attention to detail; mindblowing quality.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8d7a368-b2a2-4539-a854-27069021b5e3.png)
 
 ---
