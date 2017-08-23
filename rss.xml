@@ -4,9 +4,16 @@
         <description><![CDATA[Trylobot Reviews Games]]></description>
         <link>https://thegrid.ai/trylobot/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Aug 2017 18:03:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2017 18:04:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/trylobot/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 23 Aug 2017 18:03:47 GMT</pubDate>
+        <pubDate>Wed, 23 Aug 2017 18:04:19 GMT</pubDate>
+        <item>
+            <title><![CDATA[Monument Valley Review]]></title>
+            <description><![CDATA[<h1>Monument Valley Review</h1>,<p>Beautiful but not particularly challenging; excellent for killing some time.</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e340cd32-0edb-4c8c-b9fc-5228153a3daf.jpg">]]></description>
+            <link>https://thegrid.ai/trylobot/monument-valley-review/index.html</link>
+            <guid isPermaLink="false">e51dee87-89c2-4629-8960-5bb1cf0e3138</guid>
+            <pubDate>Wed, 23 Aug 2017 18:03:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Antichamber Review]]></title>
             <description><![CDATA[<h1>Antichamber Review</h1>,<p>A puzzle game that changes when you look away.</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/96cbd540-4652-426e-8c90-7e24d489a5a0.png">]]></description>
@@ -69,13 +76,6 @@
             <link>https://thegrid.ai/trylobot/factorio-review/index.html</link>
             <guid isPermaLink="false">1e9bbc88-0bb0-4822-a152-94d445443033</guid>
             <pubDate>Thu, 17 Aug 2017 16:13:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Crawl Review]]></title>
-            <description><![CDATA[<h1>Crawl Review</h1>,<p><em>Crawl</em> is a piece of local multiplayer genius. You and up to three friends take turns controlling a hero. As the hero, you want to level up and escape the dungeon. Everyone else is pitted <em>against </em>the hero, as the various hazards of the dungeon (including the bosses!).</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3336a6a-b07f-4c6d-aa0e-28e80320b666.jpg">]]></description>
-            <link>https://thegrid.ai/trylobot/crawl/index.html</link>
-            <guid isPermaLink="false">9bb0e3a5-0847-4c36-aace-8ec71189f339</guid>
-            <pubDate>Sat, 24 Sep 2016 20:50:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
