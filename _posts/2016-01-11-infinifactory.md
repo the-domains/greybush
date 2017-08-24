@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-08-23T18:04:02.309Z'
+datePublished: '2017-08-24T21:19:59.205Z'
 sourcePath: _posts/2016-01-11-infinifactory.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2017-08-23T18:04:00.781Z'
+dateModified: '2017-08-24T21:19:56.457Z'
 title: Infinifactory Review
 publisher: {}
 description: 'Infinifactory is addicting. Really, really addicting.'
@@ -25,11 +25,19 @@ _Infinifactory_ is addicting. Really, _really _addicting_._
 
 ---
 
-The game's loading screen presents tips, and one of them in particular is ironically amusing; it suggests that a working solution is more important than making one which is fast or elegant. But there it is; fast and elegant solutions are the entire draw of the thing. So addicting they are that a tip had to be written to _remind _the player that they also have to actually solve the problem, and not just endlessly optimize.
+Zachtronics has ventured into the 3D puzzle sandbox space with thoughtful design and simple interactions. It begs to be compared to Minecraft, and on the surface it might appear to be similar; but the gameplay is quite a bit different.
 
-And it doesn't stop there; much like _Spacechem, _there are histograms presented when you solve a puzzle, and friends-only leaderboards to instill a sense of competition (and by extension, real accomplishment) which also leads to further optimization. The pull for a puzzle game player is undeniable.
+The game's loading screen presents tips, and one of them in particular is ironically amusing; it suggests:
 
-Overall I give the a game a thumbs-up. [Get it!][0]
+> A working solution is more important than making one which is fast or elegant. 
+
+But there it is; fast and elegant solutions are the entire draw of the thing; so addicting, in fact, that a tip had to be written _just to remind _the player that they also have to actually solve the problem (and not just endlessly optimize).
+
+And it doesn't stop there; much like _Spacechem, _there are histograms presented when you solve a puzzle comparing your solution to every other, and friends-only leaderboards to instill a sense of competition (and by extension, real accomplishment) which also leads to further optimization. The pull for a puzzle game player, or any obsessive-compulsive perfectionist, is undeniable. I found myself in many cases creating three solutions for a puzzle; one for each histogram metric to try and meet or beat the world's best, if I could.
+
+The game's story is somewhat dark, putting you in the role of kidnapped human labor, solving engineering problems for your alien overlords. They provide raw materials, you send them output products. In-between lies your factory, and every puzzle has nearly infinite workable answers. The story is largely unimportant, as you will be spending almost all of your time immersed in a hell of your own making as your creation rebels and resists you, prompting you to bend the game's rules to your will, and efficiently crank out devices and structures to spec.
+
+Overall I give the a game a huge thumbs-up. [Get it immediately!][0]
 
 --- Trylobot
 
