@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: A puzzle game that changes when you look away.
-dateModified: '2017-08-23T18:04:00.781Z'
-datePublished: '2017-08-23T18:04:02.297Z'
+dateModified: '2017-08-30T16:04:06.743Z'
+datePublished: '2017-08-30T16:04:07.671Z'
 title: Antichamber Review
 author: []
 publisher: {}
