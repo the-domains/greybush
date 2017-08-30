@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Beautiful but not particularly challenging; excellent for killing some time.
-dateModified: '2017-08-23T18:04:00.781Z'
-datePublished: '2017-08-23T18:04:02.298Z'
+dateModified: '2017-08-30T16:04:06.743Z'
+datePublished: '2017-08-30T16:04:07.646Z'
 title: Monument Valley Review
 author: []
 publisher: {}
