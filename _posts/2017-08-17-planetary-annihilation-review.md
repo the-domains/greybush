@@ -4,8 +4,8 @@ description: >-
   Uber Entertainment decided the time had come to reboot a classic RTS, and
   weren’t satisfied with its first re-incarnation attempt. Let’s take a trip in
   the Way-Back Machine!
-dateModified: '2017-08-23T18:04:00.781Z'
-datePublished: '2017-08-23T18:04:02.184Z'
+dateModified: '2017-08-30T16:04:06.743Z'
+datePublished: '2017-08-30T16:04:07.681Z'
 title: Planetary Annihilation Review
 author: []
 publisher: {}
