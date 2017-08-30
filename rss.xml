@@ -4,9 +4,16 @@
         <description><![CDATA[Trylobot Reviews Games]]></description>
         <link>https://thegrid.ai/trylobot/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Aug 2017 16:05:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2017 16:05:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/trylobot/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 30 Aug 2017 16:03:47 GMT</pubDate>
+        <pubDate>Wed, 30 Aug 2017 16:04:25 GMT</pubDate>
+        <item>
+            <title><![CDATA[Absolver Review]]></title>
+            <description><![CDATA[<h1>Absolver Review</h1>,<p><em>Sloclap</em>’s first game is stylish, minimalist and focused.</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/662b3e01-3136-4f8d-842c-1c85ff82ac2f.png">]]></description>
+            <link>https://thegrid.ai/trylobot/absolver-review/index.html</link>
+            <guid isPermaLink="false">a1b8fed2-f205-4f5a-95a7-913111ca9629</guid>
+            <pubDate>Wed, 30 Aug 2017 16:03:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Monument Valley Review]]></title>
             <description><![CDATA[<h1>Monument Valley Review</h1>,<p>Beautiful but not particularly challenging; excellent for killing some time.</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e340cd32-0edb-4c8c-b9fc-5228153a3daf.jpg">]]></description>
@@ -69,13 +76,6 @@
             <link>https://thegrid.ai/trylobot/redout-review/index.html</link>
             <guid isPermaLink="false">a8ddca14-6852-4d36-b4c0-ba52d55301e6</guid>
             <pubDate>Thu, 17 Aug 2017 18:29:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Factorio Review]]></title>
-            <description><![CDATA[<h1>Factorio Review</h1>,<p>Wube software has a real gem on their hands.</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9482293b-c46c-4526-9d2a-66a26808e40b.jpg">]]></description>
-            <link>https://thegrid.ai/trylobot/factorio-review/index.html</link>
-            <guid isPermaLink="false">1e9bbc88-0bb0-4822-a152-94d445443033</guid>
-            <pubDate>Thu, 17 Aug 2017 16:13:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
