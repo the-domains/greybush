@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Sloclap’s first game is stylish, minimalist and focused.'
-dateModified: '2017-09-01T22:13:16.748Z'
-datePublished: '2017-09-01T22:13:17.680Z'
+dateModified: '2017-11-13T21:28:37.412Z'
+datePublished: '2017-11-13T21:28:38.195Z'
 title: Absolver Review
 author: []
 publisher: {}
