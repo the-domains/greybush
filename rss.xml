@@ -4,9 +4,16 @@
         <description><![CDATA[Trylobot Reviews Games]]></description>
         <link>https://thegrid.ai/trylobot/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Nov 2017 21:28:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2017 21:29:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/trylobot/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Nov 2017 21:28:02 GMT</pubDate>
+        <pubDate>Mon, 13 Nov 2017 21:28:57 GMT</pubDate>
+        <item>
+            <title><![CDATA[Hand of Fate 2 Review]]></title>
+            <description><![CDATA[<h1>Hand of Fate 2 Review</h1>,<p>This return to the combination action-game / board-game genre is definitely worth consideration.</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7434f74c-4e2c-42c7-8356-0855c45370a8.png">]]></description>
+            <link>https://thegrid.ai/trylobot/hand-of-fate-2-review/index.html</link>
+            <guid isPermaLink="false">3cb67526-7896-43d0-aaa6-f0631f95eb21</guid>
+            <pubDate>Mon, 13 Nov 2017 21:28:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Absolver Review]]></title>
             <description><![CDATA[<h1>Absolver Review</h1>,<p><em>Sloclap</em>’s first game is stylish, minimalist and focused.</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/662b3e01-3136-4f8d-842c-1c85ff82ac2f.png">]]></description>
@@ -69,13 +76,6 @@
             <link>https://thegrid.ai/trylobot/for-honor-review/index.html</link>
             <guid isPermaLink="false">1a8af57b-8ff7-4916-9237-515a2c0f819a</guid>
             <pubDate>Thu, 17 Aug 2017 18:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Redout Review]]></title>
-            <description><![CDATA[<h1>Redout Review</h1>,<p>If you fondly remember <em>Wipeout</em> or <em>Extreme-G</em>, don’t even read this review, <a href="https://34bigthings.com/portfolio/redout/" title="">just get it.</a></p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ddc3dea-16b0-4ef9-b393-f06d9ee3a5ce.jpg">]]></description>
-            <link>https://thegrid.ai/trylobot/redout-review/index.html</link>
-            <guid isPermaLink="false">a8ddca14-6852-4d36-b4c0-ba52d55301e6</guid>
-            <pubDate>Thu, 17 Aug 2017 18:29:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
