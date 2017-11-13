@@ -3,16 +3,16 @@ inFeed: true
 description: >-
   This return to the combination action-game / board-game genre is definitely
   worth consideration.
-dateModified: '2017-11-13T21:28:00.851Z'
-datePublished: '2017-11-13T21:28:01.278Z'
+dateModified: '2017-11-13T21:28:37.412Z'
+datePublished: '2017-11-13T21:28:38.164Z'
 title: Hand of Fate 2 Review
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-11-13-hand-of-fate-2-review.md
 starred: false
 datePublishedOriginal: '2017-11-13T21:28:01.278Z'
-sourcePath: _posts/2017-11-13-hand-of-fate-2-review.md
 url: hand-of-fate-2-review/index.html
 _type: Article
 
