@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-08-17T18:33:21.264Z'
+datePublished: '2018-08-30T03:29:58.889Z'
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-08-17T18:33:20.697Z'
+dateModified: '2018-08-30T03:29:58.199Z'
 title: Gaming as an Adult
 publisher: {}
 description: >-
